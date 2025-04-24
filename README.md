@@ -1,2 +1,3 @@
 # KeyLogger
-Retrieves them enter target keyboard, to your server
+keyLogger, sends an email from the key enter of the target 
+Use libcurl library
